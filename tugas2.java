@@ -50,7 +50,7 @@ public class tugas2 {
 
         System.out.println("Bilangan maksimum: " + max);
         System.out.print("Bilangan minimum: " + min);
-        
+        sc.close();
     }
 }
 
